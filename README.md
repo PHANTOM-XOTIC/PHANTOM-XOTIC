@@ -20,7 +20,7 @@
 ### Still learning, Hope to see you around!
 
 <!--
-**MaheshTechnicals/MaheshTechnicals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHANTOM_XOTIC/PHANTOM_XOTIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
