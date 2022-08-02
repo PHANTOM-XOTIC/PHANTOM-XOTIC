@@ -3,7 +3,7 @@
 
 ### Nice to see you here!
 
-<a href="https://github.com/ https://github.com/PHANTOM-XOTIC/PHANTOM-XOTIC" target="_blank">
+<a href="https://github.com/PHANTOM-XOTIC" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=7DBBE6 alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/PHANTOM_XOTIC" target="_blank">
