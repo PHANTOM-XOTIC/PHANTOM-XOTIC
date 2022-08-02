@@ -8,7 +8,6 @@
 </a>
 <a href="https://t.me/PHANTOM_XOTIC" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=0088CC alt=telegram style="margin-bottom: 5px;" />
-</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshTechnicals&show_icons=true&theme=tokyonight)
 
 - 📚 I'm a student.
