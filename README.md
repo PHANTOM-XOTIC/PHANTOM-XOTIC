@@ -3,22 +3,24 @@
 
 ### Nice to see you here!
 
-<a href="https://github.com/PHANTOM-XOTIC" target="_blank">
+<a href="https://github.com/PHANTOM_XOTIC" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=7DBBE6 alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/PHANTOM_XOTIC" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=0088CC alt=telegram style="margin-bottom: 5px;" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshTechnicals&show_icons=true&theme=tokyonight)
+</a>
 
-- 📚 I'm a student.
+![Profile views counter](https://komarev.com/ghpvc/?username=PHANTOM_XOTIC&style=flat-square&color=86d62f)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHANTOM_XOTIC&show_icons=true&theme=tokyonight)
+
+- 📚 I'm Graduate. 
 - 🔭 I'm currently working on Android Development
 
 ### Still learning, Hope to see you around!
 
 <!--
 **PHANTOM_XOTIC/PHANTOM_XOTIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-src="https://github-readme-streak-stats.herokuapp.com/?user=nicesapien&theme=dark" alt="nicesapien" /></p>
 
 Here are some ideas to get you started:
 
