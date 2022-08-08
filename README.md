@@ -1,11 +1,8 @@
 ## Hey there! I'm PHANTOM XOTIC <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Nice to see you here!
+### Nice to see you 
 
-<a href="https://github.com/PHANTOM_XOTIC" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=7DBBE6 alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://t.me/PHANTOM_XOTIC" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=0088CC alt=telegram style="margin-bottom: 5px;" />
 </a>
